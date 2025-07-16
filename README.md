@@ -4,7 +4,7 @@ This project simulates a basic **5-stage pipelined processor** capable of execut
 
 ---
 
-## 🔧 Pipeline Stages
+##  Pipeline Stages
 
 The processor follows a classic 5-stage pipeline model:
 
@@ -21,7 +21,7 @@ It accounts for:
 
 ---
 
-## 📁 File Structure
+##  File Structure
 
 | File Name        | Description                              |
 |------------------|------------------------------------------|
@@ -34,7 +34,7 @@ It accounts for:
 
 ---
 
-## ✅ Features
+##  Features
 
 - Simulates instruction-by-instruction execution
 - Detects and handles:
@@ -49,7 +49,7 @@ It accounts for:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Prerequisites
 - C++ compiler (e.g. `g++`)
